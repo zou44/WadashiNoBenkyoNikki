@@ -5,10 +5,10 @@
 *   [示例](#示例)
 *   [IntentFilter](#IntentFilter)
     -   Methods
-*   [DownloadManager](#Methods)
+*   [DownloadManager](#downloadmanager)
     -   Methos
     -   Constants
-*   [DownloadManager.Request ](#DownloadManager.Request )
+*   [DownloadManager.Request ](#downloadmanagerrequest)
     -   Methos
     -   Constants
     -   其他
