@@ -19,6 +19,7 @@ const server = http.createServer((req, res) => {
 const wss = new WebSocket.Server({ server });
 var lastWs;
 
+
 // 监听WebSocket连接
 wss.on('connection', (ws) => {
     lastWs = ws;
@@ -56,6 +57,7 @@ rl.on('close', () => {
 // 启动HTTP服务器，监听端口8080
 server.listen(9200, () => {
     console.log('Server is running on port 9200');
+    rl.prompt();
 });
 
-rl.prompt();
+
