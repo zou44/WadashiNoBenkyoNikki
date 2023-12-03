@@ -194,7 +194,7 @@
 * 基础
     - 系统服务
         - ~~[DownloadManager](./Andorid/Basic/SystemService/DownloadManager/Index.md)~~
-
+        - ~~[CameraManager](./Andorid/Basics/SystemService/CameraManager/BasicUsage/Index.md)~~
 
 * 系统签名下的应用开发
 * 音视频
