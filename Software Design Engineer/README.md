@@ -1,3 +1,36 @@
 # Software Design Engineer
--   [计算机组成原理与体系结构](./Software%20Design%20Engineer/Computer%20Organization%20and%20Architecture/README.md)
 -   [数据库基础技术](./Fundamentals%20of%20Database%20Technology/README.md)
+    -   关系代数
+        -   [定义](./Relational%20Algebra/Definition.md)
+        -   关系数据库的规范化
+            -   函数依赖
+            -   规范化
+                -   1NF ⊆ 2NF ⊆ 3NF (常用三范式)
+                -   BCNF
+                -   4NF
+                -   更多
+            -   分解
+                -   保存函数依赖
+                -   无损连接分解
+-   计算机组成原理与体系结构
+    -   数据的表达
+        -   [任何进制转十进制](./Computer%20Organization%20and%20Architecture//Representation%20of%20Data/R%20To%20Decimal.md)
+        -   [十进制转任何进制](./Computer%20Organization%20and%20Architecture//Representation%20of%20Data/Decimal%20To%20Binary.md)
+-   数据结构
+    -   线性结构
+        -   数组
+        -   稀疏矩阵
+        -   线性表
+        -   广义表
+        -   栈
+        -   队列
+        -   串
+    -   非线性结构
+        -   树
+        -   森林
+        -   二叉树
+            -   查找二叉树 or 排序二叉树
+            -   最优二叉树
+            -   线索二叉树
+            -   平衡二叉树
+        -   图
