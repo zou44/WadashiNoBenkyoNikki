@@ -1,7 +1,9 @@
 # これは私の勉強ノートです
 
 ## Last Update
--   [2024/01/23 - 数据库技术基础 - 函数依赖](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Functional%20Dependency.md)
+-   [2024/02/03 - UniApp 设置页面背景颜色不生效](./Uniapp/Setting%20Page%20The%20Background%20Color%20is%20invalid.md)
+-   [2024/02/03 - UniApp 中断请求 (uni.request的Promise形式)](./Uniapp/request%20promise%20method%20abort.md)
+-   [2024/02/03 - 数据库技术基础 - 函数依赖](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Functional%20Dependency.md)
 -   [2024/01/23 - 数据库技术基础 - 关系代数](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Relational%20Algebra/Definition.md)
 -   [2024/01/17 - 计算机组成原理与体系结构 - 任何进制转十进制](./Software%20Design%20Engineer/Computer%20Organization%20and%20Architecture/Representation%20of%20Data/R%20To%20Decimal.md)
 -   [2024/01/17 - 计算机组成原理与体系结构 - 十进制转任何进制](./Software%20Design%20Engineer/Computer%20Organization%20and%20Architecture/Representation%20of%20Data/Decimal%20To%20Binary.md)
@@ -14,6 +16,7 @@
 -   [WEB](./Web/README.md)
 -   [DesignMode](./DesignMode/README.md)
 -   [AudioAndVideoDevelopment](./AuidoAndVideoDevelopment/README.md)
+-   [UniApp](./Uniapp/README.md)
 
 ### 未整理の部分　(みせいりのぶぶん) 
 以下全是日常工作中使用到但从未整理的....
