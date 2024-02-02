@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [2024/01/23 - 数据库技术基础 - 函数依赖](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Functional%20Dependency.md)
 -   [2024/01/23 - 数据库技术基础 - 关系代数](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Relational%20Algebra/Definition.md)
 -   [2024/01/17 - 计算机组成原理与体系结构 - 任何进制转十进制](./Software%20Design%20Engineer/Computer%20Organization%20and%20Architecture/Representation%20of%20Data/R%20To%20Decimal.md)
 -   [2024/01/17 - 计算机组成原理与体系结构 - 十进制转任何进制](./Software%20Design%20Engineer/Computer%20Organization%20and%20Architecture/Representation%20of%20Data/Decimal%20To%20Binary.md)

@@ -3,7 +3,7 @@
     -   关系代数
         -   [定义](./Relational%20Algebra/Definition.md)
         -   关系数据库的规范化
-            -   函数依赖
+            -   [函数依赖](./Fundamentals%20of%20Database%20Technology/Normalization/Functional%20Dependency.md)
             -   规范化
                 -   1NF ⊆ 2NF ⊆ 3NF (常用三范式)
                 -   BCNF
