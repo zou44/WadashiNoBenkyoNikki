@@ -1,7 +1,7 @@
 ![Normal Form of header img.png](./Resouces/Normal%20Form%20of%20header%20img.png)
-# 规范化 or 范式 (Normalization)
+# 范式 (Normal Form)
 ## 目录
-- [规范化 or 范式 (Normalization)](#规范化-or-范式-normalization)
+- [范式 (Normal Form)](#范式-normal-form)
   - [目录](#目录)
   - [什么是规范化？](#什么是规范化)
   - [范式](#范式)

@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [2024/02/04 - 数据库技术基础 - 范式 (Normal Form)](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Normal%20Form.md)
 -   [2024/02/03 - UniApp 设置页面背景颜色不生效](./Uniapp/Setting%20Page%20The%20Background%20Color%20is%20invalid.md)
 -   [2024/02/03 - UniApp 中断请求 (uni.request的Promise形式)](./Uniapp/request%20promise%20method%20abort.md)
 -   [2024/02/03 - 数据库技术基础 - 函数依赖](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Functional%20Dependency.md)
