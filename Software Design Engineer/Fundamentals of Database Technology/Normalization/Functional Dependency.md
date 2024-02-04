@@ -1,4 +1,4 @@
-![header](./Resouces/header.png)
+![header](./Resouces/Fcuntional%20Dependency%20header.png)
 
 # 函数依赖相关概念
 ## 目录

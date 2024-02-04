@@ -3,15 +3,10 @@
     -   关系代数
         -   [概念](./Fundamentals%20of%20Database%20Technology/Relational%20Algebra/Definition.md)
     -   关系数据库的规范化
+        -   [README](./Fundamentals%20of%20Database%20Technology/Normalization/README.md)
         -   [函数依赖](./Fundamentals%20of%20Database%20Technology/Normalization/Functional%20Dependency.md)
-        -   规范化
-            -   1NF ⊆ 2NF ⊆ 3NF (常用三范式)
-            -   BCNF
-            -   4NF
-            -   更多
-        -   分解
-            -   保存函数依赖
-            -   无损连接分解
+        -   [范式](./Fundamentals%20of%20Database%20Technology/Normalization/Normal%20Form.md)
+        -   [分解](./Fundamentals%20of%20Database%20Technology/Normalization/Decomposition.md)
 -   计算机组成原理与体系结构
     -   数据的表达
         -   [任何进制转十进制](./Computer%20Organization%20and%20Architecture//Representation%20of%20Data/R%20To%20Decimal.md)

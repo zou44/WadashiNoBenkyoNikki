@@ -1,6 +1,8 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [2024/02/05 - 数据库技术基础 - 关系数据库的规范化](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/README.md)
+-   [2024/02/05 - 数据库技术基础 - 分解 (Decomposition)](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Decomposition.md)
 -   [2024/02/04 - 数据库技术基础 - 范式 (Normal Form)](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Normal%20Form.md)
 -   [2024/02/03 - UniApp 设置页面背景颜色不生效](./Uniapp/Setting%20Page%20The%20Background%20Color%20is%20invalid.md)
 -   [2024/02/03 - UniApp 中断请求 (uni.request的Promise形式)](./Uniapp/request%20promise%20method%20abort.md)
