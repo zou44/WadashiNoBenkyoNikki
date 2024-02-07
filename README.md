@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [2024/02/07 - 罗技鼠标宏](./Project/Mouse%20Script/README.md)
 -   [2024/02/05 - 数据库技术基础 - 关系数据库的规范化](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/README.md)
 -   [2024/02/05 - 数据库技术基础 - 分解 (Decomposition)](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Decomposition.md)
 -   [2024/02/04 - 数据库技术基础 - 范式 (Normal Form)](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/Normal%20Form.md)
