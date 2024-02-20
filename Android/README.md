@@ -1,4 +1,4 @@
-# 导航
+# 安卓开发
 ## 基础
 *   SystemService (系统服务)
     -   CameraManager 
@@ -7,4 +7,5 @@
             -   [基础用法](./Basics/SystemService/CameraManager/BasicUsage/Index.md)
     -   DownloadManager
         -   [基础用法](./Basics/SystemService/DownloadManager/BasicUsage/Index.md)
-
+*   杂项
+    *   [使应用在模拟器中成为系统应用](./Others/Using%20System%20app%20uid%20in%20Virtual%20Device%20for%20Applications.md)

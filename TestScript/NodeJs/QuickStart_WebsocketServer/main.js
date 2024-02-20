@@ -30,6 +30,11 @@ wss.on('connection', (ws) => {
         console.log(`Received: ${message}`);
     });
 
+    ws.on('close', (message) => {
+        console.log('closed');
+    });
+
+    
     // 发送欢迎消息
     // ws.send('Welcome to the WebSocket server!');
 
