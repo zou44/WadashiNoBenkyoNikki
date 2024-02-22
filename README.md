@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [2024/02/21 - 数据结构/其他/平均算法长度 ASL (Averrage Search Length)](./Software%20Design%20Engineer/Data%20Structure/Others/Averrage%20Search%20Length.md)
 -   [2024/02/19 - 使应用在模拟器中成为系统应用](./Android/Others/Using%20System%20app%20uid%20in%20Virtual%20Device%20for%20Applications.md)
 -   [2024/02/07 - 罗技鼠标宏](./Project/Mouse%20Script/README.md)
 -   [2024/02/05 - 数据库技术基础 - 关系数据库的规范化](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/README.md)
