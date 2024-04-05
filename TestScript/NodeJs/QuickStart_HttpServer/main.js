@@ -10,8 +10,11 @@ const customAppDirectory = 'C:\\Users\\64553\\AndroidStudioProjects\\GxCameraCap
 app.use(express.static(customAppDirectory));
 
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, customAppDirectory, 'index.html'));
+    res.status(200).send("ok!1");
+    console.log("有人访问了")
+//   res.sendFile(path.join(__dirname, customAppDirectory, 'index.html'));
 });
+
 
 const port = process.env.PORT || 5001;
 
