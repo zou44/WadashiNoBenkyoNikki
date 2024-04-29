@@ -21,7 +21,7 @@
 `注意:WIFI SDK申请有条件.`  
 ![2](./Resouces/2.png)
 ![3](./Resouces/3.png)
-`笔者公司不够资格,到步就换反感了.`
+`笔者公司不够资格,到步就换方案了.`
 
 ## 参考
 [文档1](https://iot.mi.com/new/doc/accesses/direct-access/embedded-development/wifi/sdk-dev/quickstart)  
