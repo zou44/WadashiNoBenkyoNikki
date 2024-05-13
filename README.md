@@ -1,9 +1,10 @@
 # これは私の勉強ノートです
 
 ## Last Update
--   [2024/04/30 - project/Mi Iot/小米小米IOT WIFI SDK物料申请](./Project/Mi%20IoT/WIFI%20SDK%20Development/Material%20Request/index.md)
--   [2024/04/05 - docker/其他/镜像的导出与导入](./Docker/Others/image%20save&load.md) 
--   [2024/02/21 - 数据结构/其他/平均算法长度 ASL (Averrage Search Length)](./Software%20Design%20Engineer/Data%20Structure/Others/Averrage%20Search%20Length.md)
+-   [2024/05/14 - Language\English\(重温) 数词](./Language/English/Grammar/Numeral.md)
+-   [2024/04/30 - Project\Mi Iot小米小米IOT WIFI SDK物料申请](./Project/Mi%20IoT/WIFI%20SDK%20Development/Material%20Request/index.md)
+-   [2024/04/05 - Docker\其他\镜像的导出与导入](./Docker/Others/image%20save&load.md) 
+-   [2024/02/21 - 数据结构\其他\平均算法长度 ASL (Averrage Search Length)](./Software%20Design%20Engineer/Data%20Structure/Others/Averrage%20Search%20Length.md)
 -   [2024/02/19 - 使应用在模拟器中成为系统应用](./Android/Others/Using%20System%20app%20uid%20in%20Virtual%20Device%20for%20Applications.md)
 -   [2024/02/07 - 罗技鼠标宏](./Project/Mouse%20Script/README.md)
 -   [2024/02/05 - 数据库技术基础 - 关系数据库的规范化](./Software%20Design%20Engineer/Fundamentals%20of%20Database%20Technology/Normalization/README.md)
