@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [2024/05/16 - 低功耗蓝牙外围设备(Peripheral)](./Android/Bluetooth/Bluetooth%20Low%20Energy/Peripheral.md)
 -   [2024/05/15 - 低功耗蓝牙相关概念](./Android/Bluetooth/Bluetooth%20Low%20Energy/Concept.md)
 -   [2024/05/14 - Language\English\(重温) 数词](./Language/English/Grammar/Numeral.md)
 -   [2024/04/30 - Project\Mi Iot小米小米IOT WIFI SDK物料申请](./Project/Mi%20IoT/WIFI%20SDK%20Development/Material%20Request/index.md)
