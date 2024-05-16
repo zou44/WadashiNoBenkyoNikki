@@ -3,7 +3,7 @@
 ## Last Update
 -   [2024/05/16 - 低功耗蓝牙外围设备(Peripheral)](./Android/Bluetooth/Bluetooth%20Low%20Energy/Peripheral.md)
 -   [2024/05/15 - 低功耗蓝牙相关概念](./Android/Bluetooth/Bluetooth%20Low%20Energy/Concept.md)
--   [2024/05/14 - Language\English\(重温) 数词](./Language/English/Grammar/Numeral.md)
+-   [2024/05/14 - (重温) 数词](./Language/English/Grammar/Numeral.md)
 -   [2024/04/30 - Project\Mi Iot小米小米IOT WIFI SDK物料申请](./Project/Mi%20IoT/WIFI%20SDK%20Development/Material%20Request/index.md)
 -   [2024/04/05 - Docker\其他\镜像的导出与导入](./Docker/Others/image%20save&load.md) 
 -   [2024/02/21 - 数据结构\其他\平均算法长度 ASL (Averrage Search Length)](./Software%20Design%20Engineer/Data%20Structure/Others/Averrage%20Search%20Length.md)

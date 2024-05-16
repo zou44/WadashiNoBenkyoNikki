@@ -1,7 +1,8 @@
 ![脑图](./Mind%20Map.png)
 
-
 # 数词 (Numeral[/ˈnjuːmərəl/])
+> LastUpdateTime: The 17th of May, 2024
+> Number of Changes: five
 
 ## 目录
 - [数词 (Numeral\[/ˈnjuːmərəl/\])](#数词-numeralˈnjuːmərəl)
@@ -13,6 +14,8 @@
   - [注意](#注意)
     - [基数词修饰单位基数词](#基数词修饰单位基数词)
     - [序数词通常都要加上定冠词,但表示“名次”时,用零冠词.](#序数词通常都要加上定冠词但表示名次时用零冠词)
+  - [基数词的构成](#基数词的构成)
+  - [序数词的构成](#序数词的构成)
   - [用法](#用法)
     - [数学](#数学)
       - [分数](#分数)
@@ -31,8 +34,6 @@
       - [表示编号](#表示编号)
       - [表示时间距离](#表示时间距离)
       - [表示年龄](#表示年龄)
-  - [基数词的构成](#基数词的构成)
-  - [序数词的构成](#序数词的构成)
 
 
 ## 概念
@@ -69,6 +70,26 @@ hundred (一百)、thousand(一千)、million(一百万)、billion(十亿)、doz
 -   He won first prize in the match - 他在比赛中赢得了一等奖.
 -   She came in third place in the match - 她在比赛中得了第三名.  
 ` won 和 came 语气不同,前者强调赢得, 后者侧重于比赛中位置.`
+
+## 基数词的构成
+| 类型 | 构成方法 | 例词 |
+|-------|-------|-------|
+| 1~12 | 独立成词 | one,two,three,four,six,<br />...eleven(11,`ɪˈlev(ə)n`),twelve(12,`twelv`) |
+| 13~19 | 以-teen结尾 | thirtenn(13),fourteen(14),fiftenn(15),<br />...eighteen(18),nineteen(19) |
+| 20~90的整十位 | 以-ty结尾 | twenty(20),thirty(30),forty(40),  fifty(50),sixty(60),seventy(70),eighty(80),ninety(90) |
+| 21~99 | 十位和个位之间加连接符 | thirty-two(32),ninety-seven(97) |
+| 101~999 | 101~999 百位后十位前加 and | 148 - one hundred and forty-eight |
+| 1,000以上 | 1000 以上 从右向左每三位数加一逗号，从右向左第一个逗号表示 thousand (千)，第二个表示 million (万), 第三个表示 billion (亿)，然后每三位为一单位从左向右读。| 2,510 = two thousand five hundred and ten <br />274,350 = two hundred and seventy-four thousand, three hundred and fifty |
+
+## 序数词的构成
+| 类型 | 构成方法 | 例词 |
+|-------|-------|-------|
+| one,tow,three | 单独记忆 | first,second,third |
+| 4~9 | 基数词尾加th | fourth(第14),seventh(第7),tenth(第10),eleventh(第11) |
+| 表示 “第几十(整十位,20~90)” 的序数词 | 把基数词的词尾y变成i在加eth | twentieth(第20),thirtieth(第30),fortieth(第40) |
+| 表示 “第几十几(21~99)”的序数词 | 只把个位变为序数词 | twenty-first(第21),twenty-fifth(第25),ninety-ninth(第99) |
+| hundred, thousand, million | 词尾加 th | hundredth(第一百), thousandth(第1000),millionth(第一百万) | 
+`根据规律得出不管多少位，序数词只改变个位，其他依旧按照基数词的规律。例:seven hundred and sixty-first -> 第761`
 
 ## 用法
 ### 数学
@@ -159,22 +180,3 @@ hundred (一百)、thousand(一千)、million(一百万)、billion(十亿)、doz
     -   at （the age of） + 基数词
         -   I'll go to university at (the age of) nineteen -> 我将在十九岁上大学
 
-
-## 基数词的构成
-| 类型 | 构成方法 | 例词 |
-|-------|-------|-------|
-| 1~12 | 独立成词 | one,two,three,four,six,<br />...eleven(11,`ɪˈlev(ə)n`),twelve(12,`twelv`) |
-| 13~19 | 以-teen结尾 | thirtenn(13),fourteen(14),fiftenn(15),<br />...eighteen(18),nineteen(19) |
-| 20~90的整十位 | 以-ty结尾 | twenty(20),thirty(30),forty(40),  fifty(50),sixty(60),seventy(70),eighty(80),ninety(90) |
-| 21~99 | 十位和个位之间加连接符 | thirty-two(32),ninety-seven(97) |
-| 101~999 | 101~999 百位后十位前加 and | 148 - one hundred and forty-eight |
-| 1,000以上 | 1000 以上 从右向左每三位数加一逗号，从右向左第一个逗号表示 thousand (千)，第二个表示 million (万), 第三个表示 billion (亿)，然后每三位为一单位从左向右读。| 2,510 = two thousand five hundred and ten <br />274,350 = two hundred and seventy-four thousand, three hundred and fifty |
-
-## 序数词的构成
-| 类型 | 构成方法 | 例词 |
-|-------|-------|-------|
-| one,tow,three | 单独记忆 | first,second,third |
-| 4~9 | 基数词尾加th | fourth(第14),seventh(第7),tenth(第10),eleventh(第11) |
-| 表示 “第几十(整十位,20~90)” 的序数词 | 把基数词的词尾y变成i在加eth | twentieth(第20),thirtieth(第30),fortieth(第40) |
-| 表示 “第几十几(21~99)”的序数词 | 只把个位变为序数词 | twenty-first(第21),twenty-fifth(第25),ninety-ninth(第99) |
-| hundred, thousand, million | 词尾加 th | hundredth(第一百), thousandth(第1000),millionth(第一百万) | 
