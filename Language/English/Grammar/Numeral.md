@@ -1,4 +1,4 @@
-![脑图](./Mind%20Map.png)
+![脑图](./Numberal%20Mind%20Map.png)
 
 # 数词 (Numeral[/ˈnjuːmərəl/])
 > LastUpdateTime: The 17th of May, 2024
