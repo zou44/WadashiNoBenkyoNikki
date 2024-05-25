@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [The 25th of May, 2024 - Android使用Paho.clicent.mqttv3包遇到的问题](./Android/Others/The%20problems%20encountered%20when%20using%20the%20paho.client.mqttv3%20package.md)
 -   [The 22nd of May, 2024 - (重温) 介词](./Language/English/Grammar/Preposition.md)
 -   [2024/05/16 - 低功耗蓝牙外围设备(Peripheral)](./Android/Bluetooth/Bluetooth%20Low%20Energy/Peripheral.md)
 -   [2024/05/15 - 低功耗蓝牙相关概念](./Android/Bluetooth/Bluetooth%20Low%20Energy/Concept.md)
