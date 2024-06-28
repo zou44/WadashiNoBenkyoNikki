@@ -1,6 +1,9 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [The 28th of June, 2024 - Electron-Updater Electron-Updater 使用和调试](./Electron/Electron-Updater/Basic%20Usage.md)
+-   [The 28th of June, 2024   - Electron-Updater 概念和基础](./Electron/Electron-Updater/Concept.md)
+-   [The 31st of May, 2024 - Electron的基础概念](./Electron/Concept.md)
 -   [The 31st of May, 2024 - Electron的基础概念](./Electron/Concept.md)
 -   [The 28th of May, 2024 - flex-grow 溢出不显示滚动条问题](./Web/CascadingStyleSheets/flex/flex-grow%20overflow%20not%20showing%20scrollbars.md)
 -   [The 25th of May, 2024 - Android使用Paho.clicent.mqttv3包遇到的问题](./Android/Others/The%20problems%20encountered%20when%20using%20the%20paho.client.mqttv3%20package.md)
