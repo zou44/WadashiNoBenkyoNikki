@@ -46,6 +46,8 @@ She got `a big surprise` when she saw `a man` lying on the floor. - 档她看见
 `and是固定搭配`  
 a `cup `and` saucer` - 一套杯碟.  
 a `knife` and `fork` - 一套刀叉.
+12. 将抽象的名词具体化
+a help - 帮手
 ### 注意
 -   `只能用在单数可数名词之前`
 -   `单数可数名词如果没有其他限定词(如指示代词、物主代词、数词、量词等)修饰,则必须要加冠词.`
@@ -65,7 +67,6 @@ There is some `water` in the tube. `The water` is hot. - 水管里有些水. 那
 5.  在形容词、现在分词或过去分词前加the,可以表示一类人或物,且表示复数.  
 `the poor, the rich, the sick....`  
 `The rich` often have access to better education. - 富人通常可以获得更好的教育。
-
 6.  用在表示被弹奏的`西洋乐器`的名词前.  
 Can you play `the piano`? - 你能弹钢琴吗?
 7.  用在专有名词前.  
@@ -89,7 +90,7 @@ the Whites - 怀特夫妇
 `The pig` is a kind of domestic animal. - 猪是一种家养动物.
 15. `the + 逢十的复数数词`表示`一个世纪中的一个年代`, 也可表示一个人的`年龄段`.  
 He died in the sixties - 他在60年代去世.  
-16. `the + 表示国籍、民族、地域的形容词`, 指整个`群体`, 或指`一个国家的全体任命`, 看作复数名词.
+16. `the + 表示国籍、民族、地域的形容词`, 指整个`群体`, 或指`一个国家的全体人民`, 看作复数名词.  
 the English - 英国人
 17. 当一个`名词带有限定性定语(形容词、介词短语、副词短语、定语从句等)`, 从而成为`特指`时, 前面加the.
 `The magazine here` is mine. - 这里杂志是我的.

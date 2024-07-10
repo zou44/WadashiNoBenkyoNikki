@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [The 11th of July, 2024 - 形容词(重温)](./Language/English/Grammar/Adjectives.md)
 -   [The 5th of July, 2024 - 冠词(重温)](./Language/English/Grammar/Article.md)
 -   [The 28th of June, 2024 - Electron-Updater Electron-Updater 使用和调试](./Electron/Electron-Updater/Basic%20Usage.md)
 -   [The 28th of June, 2024   - Electron-Updater 概念和基础](./Electron/Electron-Updater/Concept.md)
