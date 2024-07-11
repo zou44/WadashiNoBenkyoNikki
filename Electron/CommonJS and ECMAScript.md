@@ -11,8 +11,8 @@
 
 
 ## 如何在CommonJS下导入ES模块
-1.  使用动态import
-    绕过了静态解析的机制,且为异步加载.
+有两个方案
+*  方案1,使用动态import
     ```javascript
     (async () => {
          const Store = (await import('electron-store')).default;
@@ -23,7 +23,7 @@
          console.log(store.get('user.name')); // Alice
     })();
     ```
-2.  下面两个条件满足一个
+*  方案2, 将CommonJS规范改为ES规范. 下面两个条件满足一个
     * 文件以.mjs后缀.
     * package.json将type字段设置为module.
 
