@@ -1,6 +1,8 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [The 11th of July, 2024 - Web\Javascript\Module System in javascript](./Web/Javascript/Module%20System/README.md)
+-   [The 11th of July, 2024 - Electron中的CommonJS和ECMAScript](./Electron/CommonJS%20and%20ECMAScript.md)
 -   [The 11th of July, 2024 - 形容词(重温)](./Language/English/Grammar/Adjectives.md)
 -   [The 5th of July, 2024 - 冠词(重温)](./Language/English/Grammar/Article.md)
 -   [The 28th of June, 2024 - Electron-Updater Electron-Updater 使用和调试](./Electron/Electron-Updater/Basic%20Usage.md)
@@ -38,6 +40,7 @@
 -   [AudioAndVideoDevelopment](./AuidoAndVideoDevelopment/README.md)
 -   [UniApp](./Uniapp/README.md)
 -   [Docker](./Docker/README.md)
+-   [Electron](./Electron/README.md)
 
 ### 未整理の部分　(みせいりのぶぶん) 
 以下全是日常工作中使用到但从未整理的....
