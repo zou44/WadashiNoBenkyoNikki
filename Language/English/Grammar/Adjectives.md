@@ -189,20 +189,26 @@ This is `the fastest` car in the race. - 这是比赛中最快的车
 
 ## 常见用法
 ### 原级进行比较的,主要句型
-1.  主语 + 系动词 + as + 原级形容词 + as + ... - "和什么一样".  
+1.  主语 + 系动词 + as + 原级`形容词/副词` + as + ... - "和什么一样".    
     A boy of sixteen is often `as tall as his father`. - 一个16岁的男孩常常长得和他父亲一样高  
-    He was `as white as a sheet`. - 他的脸色和纸一样白
-2.  主语 + 系动词 + not so/as +原级形容词 + as ... - "不如...那样..."  
+    He was `as white as a sheet`. - 他的脸色和纸一样白  
+    `note`
+    -   当as...as...两个as中间有名词时,应用"as + adj. + a(n)单数形式+as..."或"as many/much + 复数名词/不可数名词 + as..."`  
+        -   She is as `good a student` as Julie - 她和朱莉一样,都是好学生.
+        -   The work is making `as much progress as can be expected`. - 工作进行得比预期的快.
+2.  主语 + 系动词 + not so/as +原级`形容词/副词` + as ... - "不如...那样..."  
     Your coffee is `not as good as the coffee my mother makes`. - 你的咖啡不如我目前做的好  
     This design is `not so beautiful as that one`. - 这个设计不如那个设计漂亮
 ### 比较级的用法
-1.  主语 + 系动词 + 形容词比比较级 + than + 对比成分. - "...比..."  
+1.  主语 + 系动词 + 比较级`形容词/副词` + than + 对比成分. - "...比..."  
     His lecture is better than John's. - 他的演讲比约翰的好.
+2.  "the + 比较级`形容词/副词`, the + 比较级`形容词/副词`". - "越...越..."
+    The older he is, the weaker he gets. - 他越老身体越弱 
 ### 最高级的用法
-`note:三个或三个以上的人或事务进行比较`
-1.  主语 + 系动词 + the + 形容词最高级 + (名词) + 表示范围的短语或从句.  
-    This is the oldest theatre in London. - 这是伦敦最老的剧院.
-
+1.  主语 + 谓语动词 + the 最高级`形容词/副词` + 比较范围(一般用in, of, among表示方位) - "表示三者或三者以上人或事物的比较"  
+    This is `the oldest theatre in London.` - 这是伦敦最老的剧院.
+2.  "one of + the + 最高级`形容词/副词` + 复数名词". - "最......的之一".  
+    Li Lei is `one of the smartest students` in the class. - 李雷是班中最聪明的学生之一.
 
 ## 其他概念
 ### 单音节词
@@ -222,6 +228,3 @@ Beautiful(/ˈbjuːtəfəl/), 里面有三个元音分别为一个/u/和两个/ə
 闭音节指的是以辅音结尾的音节.
 #### 分词形容词
 -ed和-ing结尾的形容词
-
-<!-- ## 副词
-副词是一类用来修饰`动词`、`形容词`、`其他副词`或`整个句子`的词，提供关于时间、地点、方式、程度、频率、原因等方面的更多信息。  -->

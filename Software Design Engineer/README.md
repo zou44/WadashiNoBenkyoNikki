@@ -1,5 +1,8 @@
 # Software Design Engineer
--   [数据库基础技术](./Fundamentals%20of%20Database%20Technology/README.md)
+-   数据库基础技术
+    -   数据库设计过程
+        -   概念结构设计
+            -   [E-R模型](./Fundamentals%20of%20Database%20Technology/)
     -   关系代数
         -   [概念](./Fundamentals%20of%20Database%20Technology/Relational%20Algebra/Definition.md)
     -   关系数据库的规范化
