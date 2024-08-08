@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-   [The 8th of August, 2024 - 动词(重温)](./Language/English/Grammar/Verb.md)
 -   [The 23rd of July, 2024 - 副词(重温)](./Language/English/Grammar/Adverb.md)
 -   [The 11th of July, 2024 - Web\Javascript\Module System in javascript](./Web/Javascript/Module%20System/README.md)
 -   [The 11th of July, 2024 - Electron中的CommonJS和ECMAScript](./Electron/CommonJS%20and%20ECMAScript.md)
