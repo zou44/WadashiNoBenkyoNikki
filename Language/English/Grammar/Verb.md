@@ -1,6 +1,6 @@
 # 动词(Verb)
 > LastUpdateTime: The 3rd of August, 2024  
-> Number of Changes: 2 times
+> Number of Changes: 3 times
 
 ## 目录
 - [动词(Verb)](#动词verb)
@@ -18,23 +18,8 @@
       - [常见助动词](#常见助动词)
         - [](#)
       - [注意](#注意-1)
-    - [情态动词](#情态动词)
+  - [情态动词](#情态动词)
   - [非谓语动词](#非谓语动词)
-    - [动词不定式](#动词不定式)
-      - [基本用法](#基本用法)
-      - [不定时的否定式](#不定时的否定式)
-      - ["疑问句+不定时"结构](#疑问句不定时结构)
-      - [注意](#注意-2)
-    - [动名词](#动名词)
-      - [时态和语态](#时态和语态)
-      - [基本用法](#基本用法-1)
-      - [否定形式](#否定形式)
-    - [分词](#分词)
-      - [时态和语态](#时态和语态-1)
-      - [现在分词和过去分词区别](#现在分词和过去分词区别)
-      - [用法](#用法)
-      - [否定形式](#否定形式-1)
-    - [注意](#注意-3)
   - [动词的基本形式](#动词的基本形式)
     - [原形、过去式和过去分词](#原形过去式和过去分词)
       - [规则变化](#规则变化)
@@ -48,12 +33,15 @@
     - [主动语态](#主动语态)
     - [被动语态](#被动语态)
       - [常见形式](#常见形式)
-      - [基本用法](#基本用法-2)
+      - [基本用法](#基本用法)
       - [主动语态表示被动意义的情况](#主动语态表示被动意义的情况)
   - [动词短语](#动词短语)
     - [常见形式](#常见形式-1)
-      - [注意](#注意-4)
+      - [注意](#注意-2)
   - [感官动词](#感官动词)
+  - [Be动词](#be动词)
+    - [was/were](#waswere)
+    - [am/are/is](#amareis)
 
 ## 综述
 动词是一个句子中的重心, 其后可接表语、宾语、宾语补足语、状语等构成`动词短语`.`动词短语`可以充当句子的`谓语成分`或`非谓语成分`.；  
@@ -98,9 +86,10 @@ Is构成疑问句时表询问`主语的状态、身份、特性、属性等`.
 is he a teacher? - 他是老师吗?
 
 2.  have的用法:用于构成`完成时`, 后跟to作"必须".  
-She `has paid` her own meal. - 她付了自己的饭钱(has paid表示付钱的动作现在已经完成了).
+She `has paid` her own meal. - 她付了自己的饭钱(has paid表示付钱的动作现在已经完成了).  
 Have构成疑问句时表询问`动作是否完成`或`状态是否已经持续了一段时间`.  
-Have you finished your homework? - 你完成了作用吗?
+Have you finished your homework? - 你完成了作用吗?  
+`Have用于第一人称单数、第二人称单数以及所有复数形式主语.; Has 仅用于第三人称单数.  `
 
 3.  do的用法:用于构成否定句、各种疑问句、倒装结构、强调句、代替等.  
 I `do believe` you can do it well. - 我真的相信你能做到的.(do believe, 强调)  
@@ -125,11 +114,12 @@ You shall not pass! - 你不能通过!(起到警告作用)
 1.  助动词在句子中必须同主语的人称和数一致.
 2.  常见的助动词将其放在主语前都能构成疑问句, 但需注意所表达的含义.
 
-### 情态动词
-...
+## 情态动词
+[跳转](./verb/Modal%20Verb.md)
 
 ## 非谓语动词
-在句中充当除谓语动词以外的其他成分的动词形式. 它不随人称和数的变化而变化, 故又称为非限定性动词. 它具有一般动词的特性, 可以带宾语、状语等. 非谓语动词有不定式、动名词、现在分词、过去分词四种.
+[跳转](./verb/Non-finite%20Verb.md)
+<!-- 在句中充当除谓语动词以外的其他成分的动词形式. 它不随`人称`和`数`的变化而变化, 故又称为`非限定性动词`. 它具有一般动词的特性, 可以当主语、宾语、状语等. 非谓语动词有不定式、动名词、现在分词、过去分词四种.
 
 ### 动词不定式
 动词不定式在句中起名词、形容词或副词作用. 可作句中所有成分(主语、宾语、表语等)
@@ -185,7 +175,7 @@ Please tell him `not to be late` for the meeting. - 请告诉他开会不要迟�
 | 被动 | being done | having been done |
 #### 基本用法
 1.  作主语
-    `Finding work` is very difficult these days. - 这些日子寻找工作是非常困难的.
+    `Finding work` is very difficult these days. - 这些日子寻找工作是非常困难的.  
     当动名词短语在以下结构中作主语时, 常用it作形式主语.
     -   It is/was no use(用)/good(好)/harm(坏) doing sth.
     -   It is/was useless(没用) doing sth.
@@ -244,12 +234,12 @@ I saw some foreign guests `entering` the headmaster's office. - 我看见一些�
 `Asked about his address`, the little boy didn't respond. - 询问他的地址时, 男孩没有回答. (时间状语被动, asked about his address作状语)
 
 #### 否定形式
-分词的否定形式是在其前面加not.
+分词的否定形式是在其前面加not.   
 `Not receiving` any letter from him, I gave him a call. - 从他那没有收到任何一份信, 我给他打了一个电话. 
 
 
 ### 注意
-1.  动词不定式和动名词, 相同的动词它们的含义是不同的. 动名词倾向名词!
+1.  动词不定式和动名词, 相同的动词它们的含义是不同的. 动名词倾向名词! -->
 
 ## 动词的基本形式
 ### 原形、过去式和过去分词
@@ -281,7 +271,7 @@ I saw some foreign guests `entering` the headmaster's office. - 我看见一些�
 
 
 ## 动词的时态
-一个句子中可能有时间状语来说明动作发生的时间,也可以通过谓语动词形式的变化来指示时间. 表明谓语动词动作发生时间的动词形式称为时态.
+一个句子中可能有`时间状语`来说明动作发生的时间,也可以通过`谓语动词形式`的变化来指示时间. 表明谓语动词动作发生时间的动词形式称为时态.
 
 ### 16种时态
 |  | 一般时 | 进行时 | 完成时 | 完成进行时 | 
@@ -316,7 +306,7 @@ I saw some foreign guests `entering` the headmaster's office. - 我看见一些�
 3.  一般将来时  
     表示将来发生的动作或存在的状态.
     构成和用法
-    - (1) "shall/will + 动词原形"结构, 表示即将发生的动作或存在的状态. 常与表将来时时间状语连用, 如 tomorrow, next week, in a few days(几天后)等.  
+    - (1) "shall/will + 动词原形"结构, 表示`即将发生`的动作或存在的状态. 常与表将来时时间状语连用, 如 tomorrow, next week, in a few days(几天后)等.  
         What `shall` we `do` if he doesn't come tomorrow? - 如果他明天不来, 我们该怎么办?
     - (2) "be going to + 动词原形"结构, 含有“打算” “计划” “准备”的意思, 也可表示根据说话者根据客观现象推断某事将会发生.  
         We `are going to` discuss it this evening. - 我们打算晚上讨论它
@@ -329,7 +319,9 @@ I saw some foreign guests `entering` the headmaster's office. - 我看见一些�
 4.  一般过去将来时  
     表示从过去某一时间来看将要发生的动作或存在的状态.  
     She asked if I `would help`.  - 她问我是否会帮忙.
-5.  现在进行时
+5.  现在进行时  
+    结构:
+        am/is/are + 现在分词. [am/is/are区别](#amareis)  
     用法:
     -   (1) 表示现在正在进行的动作或存在的状态, 常与now, right now, at this moment等时间状语连用.  
         It's `snowing` hard outside. - 外面的雪下得正大
@@ -337,6 +329,123 @@ I saw some foreign guests `entering` the headmaster's office. - 我看见一些�
         Ailsa is `writing` a book. - 艾莉莎正在写一本书.
     -   (3) 表示`按计划`或`安排将`要进行的动作, 或即将开始或结束的动作. 常用相关词有go,come,leave,arrive等.  
         We are `leaving` early tomorrow morning. - 我们明天早晨提前走.
+6.  过去进行时
+    构成:
+        was/were + 现在分词  
+    用法:
+    -   (1) 表示`过去某一时间正在进行的动作`, 常与表示过去的时间状语连用, 如then, at that time, this time yesterday等. `没有时间状语时, 需根据上下文判断`  
+        I `was sleeping` whe you phoned. - 你打电话时我正在睡觉.
+    -   (2) 表示`从过去某一时间角度看将要发生的动作`, 意为"快要", "马上"等, 常见的词有come, go, start, begin等`非延续性动词`.  
+        It `was getting dark` when we arrived. - 我们到的时候马上就天黑了
+7.  将来进行时
+    将来进行时由"will/shall+be+现在分词"构成. 表示`将来某一时刻正在发生的动作`,或`已经做好安排,认为未来肯定会发生的事`. 常与表示将来的时间状语, 如this time tomorrow, next Monday等连用.  
+    用法:
+    -   (1) I can't come tomorrow afternoon. `I'll(shall主语第一人称) be having` a meeting. - 明天下午我来不了, 因为i那时我正在开会.
+8.  过去将来进行时  
+    用于描述`过去某个时间点或事件中, 未来的某个时刻或一段时间内正在进行的动作`.   
+    构成:  
+        would be + 现在分词  
+    用法:
+    -   (1) 用来表示在过去某个时间点，对未来某个时刻正在进行的动作的预期或计划.  
+        He said he `would be waiting` for us at the airport. - 他说他在机场等我们  
+    -   (2) 表示过去某个时间点的计划或安排中的动作在未来某个时刻正在进行.  
+        By next year, they `would be living` in their new house. - 到明年, 他们将住进新房
+    -   (3) 用来表达未来某一时刻的背景或条件.  
+        At this time last year, we `would be preparing` for the big event. - 去年这个时候, 我们正在准备大型活动.
+9.  现在完成时  
+    构成:  
+        have/has+过去分词  
+    用法:
+    -   (1) 表示`已经做完的某事`, 常与already, yet, just, so far等时间状语连用.  
+        I `have already finished` the work. - 我已经完成了这项工作.
+    -   (2) 表示`过去的某一动作或状态一直持续到现`, `并有可能继续持续下去`, 常与表示一段时间的状语连用, 如 all the time, up to now, so far, in the past/last few years等.  
+        Peter `has been` ill for almost a month. - 皮特生病近一个月了. (has been在这里表示主语的状态将持续. 它们的组合构成了现在完成时态, 且has表示了第三人称单数, been还表系统词成分, 将表语连接.)
+    注意:
+    1.  have gone to 意为"去而未归"
+    2.  have been to 意为"去过"
+10. 过去完成时  
+    构成:  
+    had+过去分词  
+    用法:
+    -   (1) 表示过去某一时刻或动作`之前`已经完成的动作, `即"过去的过去"`.  
+        I `had just finished` half of the work by yesterday. - 昨天我刚完成了一半的工作.
+    -   (2) 表示从过去某一时刻开始, 一直持续到`过去另一时刻`的动作或状态.
+        He said that he `had been` in China for over ten years. - 他说他在做中国已经十多年了.
+    -   (3) 表示`过去未曾实现的想法`, 常和动词 hope, wish, plan, want, mean, think等连用,表示"本来打算(计划、希望、认为...)做...而未做".
+        I `had intended` to come to the party, but I was busy. - 我本打算去参加聚会,但是太忙了
+11. 一般将来完成时  
+    表示在将来某个时间点之前将已经完成的动作或状态.    
+    构成:  
+        shall/will have + 过去分词  
+    用法:  
+    -   (1) 表示在将来某个时刻之前已经完成的动作.  
+    By next week, I `will have moved` to a new house. - 到下周时, 我已经搬进新房子里.  
+    -   (2) 与"by+将来的时间点"搭配使用.  
+    She `will have graduated` by the time you return. - 你回来的时候, 他已经毕业了.  
+    -   (3) 预测某个动作将在未来完成.  
+    In ten years, they `will have built` the new highway. - (十年后, 他们将已经修建好新的高速公路)
+12. 过去将来完成时
+    表示在过去某个时间点来看, 某个动作在将来会完成.  
+    构成:
+        should/would have + 过去分词  
+    用法:
+    -   (1) 表示过去某个时间点认为将来会完成的动作
+    By the end of the year, he `would have completed` his stuides if everything had gone as planned. - 如果一切按计划进行，到年底时他本会完成学业。
+    -   (2)在虚拟语气中表示与过去事实相反的情况
+    You should `have learned more` if you had attended the classes. - 如果你参加了课程, 你本应该学到更多.
+13. 现在完成进行时
+    表示一个动作或状态从过去某个时间开始，一直持续到现在，可能还会继续下去，或刚结束。  
+    构成:  
+        肯定句: 主语 + have/has + been + 现在分词  
+        否定句: 主语 + have/has + not + been + 现在分词  
+        疑问句: Have/Has + 主语 + been + 现在分词 + ?  
+    用法
+    - (1) 强调动作的持续性:强调动作从过去某个时间点开始持续到现在,并可能继续下去.
+    They `have been working` here for five years. - 他们在这里工作了五年.
+    - (2) 表达最近发生的动作, 并且该动作可能还会继续: 即动作刚结束或还在进行中，并且对现在有影响.  
+    It's `been raining` all day. - 一整天都在下雨.  
+    - (3) 用于问对方最近在作什么  
+    What `have` you `been doing` lately? - 你最近在干什么?  
+14. 过去完成进行时
+    表示在过去某个时间点之前已经开始, 并且次序了一段时间的动作. 通常`强调`动作的`持续性`以及这个动作对`过去某一时间点的影响`.  
+    结构:  
+    肯定句: 主语 + had + been + 现在分词  
+    否定句: 主语 + had + not + been + 现在分词
+    疑问句: Had + 主语 + been + 现在分词 + ?
+    用法:
+    - (1) 描述过去某个时间点`之前`已经进行了一段时间的动作.  
+    They `had been waiting` for an hour before the bus finally arrived. - 公交车达到之前, 他们已经等了一个小时.
+    - (2) 强调过去某个动作的`持续性`以及其`结果`或`影响`.  
+    She `had Been working` all day, so she was very tired. - 她工作了整个天, 所以她非常累.
+    - (3) 用来表示过去某一时间之前的`背景`或`原因`.  
+    I `had been studying` English for two years before I moved to London. - 搬到伦敦之前, 我已经学习英语两年了.
+15. 一般将来完成进行时
+    表示在将来某个时间点`之前已经开始`并`持续了一段时间`的动作. 它强调动作的`持续性`和对`将来某一时间点的影响`.    
+    结构:
+    肯定句: 主语 + will/shall + have + been + 现在分词.  
+    否定句: 主语 + will/shall + have + not + been + 现在分词  
+    疑问句: Will/Shall + 主语 + have + been + 现在分词 + ?  
+    用法：
+    -   (1) 表在将`来某一时间点`之前已经进行了一段时间的动作.
+    By next month, I `well have been` learning French for a year. - 到下个月, 我将已经学法语一年了.    
+    -   (2) 强调`将来某个时刻之前`的`持续动作`以及其`结果或影响`.  
+    She `will have been` working at the company for ten years by ten years by the time she retires. - 到她退休时, 她将在这家公司工作十年了.
+    -   (3) 用于`预测或推测`在`将来某个时间点之前`, `某个动作可能已经进行了一段时间`.  
+    They will have been waiting for hours by the time we arrive. - 我们到达时, 他们可能已经等了几个小时.
+16. 过去将来完成进行时
+    一种`复合时态`，用于`间接引语`或`虚拟语气`中，表示从`过去`某个时间点来看，`将来`某个时间点`之前`已经`开始并持续`了一段时间的动作。它结合了过去、将来和持续的概念。  
+    结构:  
+    肯定句: 主语 + would/should + have + been + 现在分词  
+    肯定句: 主语 + would/should + not + have + been + 现在分词  
+    疑问句: Would/Should + 主语 + have + been + 现在分词 + ?
+    用法
+    -   (1) 表示`从过去的某个时间`点来看, `预计`在`未来某一时刻之前`已经`持续`了一段时间的动作.  
+    She said she `would have been studying` for three hours by the time we arrived.  - 她说, 我们到的时候, 她已经学习了三个小时.    
+    -   (2) 用于虚拟语气中, 表示一种假设的结果, 即`如果过去发生某事, 那么某个动作本应该已经持续了一段时间`.  
+    if he had started earlier, he `would have been working` for several hours by now. - 如果他早些开始, 他现在已经工作好几个小时了.
+    <!-- -   (3) 用于`间接引语`中, 将`直接引入`中的`一般将来完成进行时`变为`过去将来完成进行时`.
+    直接引语：I will have been learning French for two years by next summer.  
+    间接引语：He said he would have been learning French for two years by next summer.（他说，到明年夏天，他将已经学法语两年了。） -->
 #### 一般现在时的第三人称变化规则
 | 规则变化 | 动词原形 | 第三人称单数 | 
 | :----: | :----: | :----: |
@@ -399,3 +508,15 @@ Don't `talk back` when I'm speaking to you. - 我哥你说话的时候别顶嘴.
 
 ## 感官动词
 一感(feel)二听(hear, listen to)三让(let, have, make)五看(see, watch, notice, observe, look at)
+
+## Be动词
+
+### was/were
+Be动词的`一般过去时态`.  
+was前通常接`第一人称单数`、`第三人称单数`或`单数名词`  
+were前通常接`第二人称单`数和`所有人称复数形式`以及`复数名词`  
+### am/are/is
+Be动词的`一般现在时态`.   
+am前通常是第一人称  
+are前通常是第二人称或所有人称的`复数形式`, 且为过去式.
+is前通常是第三人称

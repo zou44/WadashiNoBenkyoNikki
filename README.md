@@ -1,6 +1,10 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-    [[Added] [The 28th of September, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
+-   [[Added] [The 18th of September, 2024] - 句法分类按功能](./Language/English/Syntax/ClassificationByFunction.md)
+-   [[Added] [The 23rd of August, 2024] - 情态动词](./Language/English/Grammar/verb/Modal%20Verb.md)
+-   [[Added] [The 28th of September, 2024] - 非谓语动词](./Language/English/Grammar/verb/Non-finite%20Verb.md)
 -   [The 8th of August, 2024 - 动词(重温)](./Language/English/Grammar/Verb.md)
 -   [The 23rd of July, 2024 - 副词(重温)](./Language/English/Grammar/Adverb.md)
 -   [The 11th of July, 2024 - Web\Javascript\Module System in javascript](./Web/Javascript/Module%20System/README.md)

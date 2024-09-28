@@ -1,6 +1,6 @@
 ![mind map](./Article%20Mind%20Map.png)
 > LastUpdateTime: The 5th of July, 2024  
-> Number of Changes: 1 times
+> Number of Changes: 2 times
 
 # 冠词 (/ˈɑːtɪk(ə)l/)
 冠词是置于名词之前，对名词起限制作用的一种虚词.通常将其分为`不定冠词(an、a)`、`定冠词(the)`和`零冠词`。
@@ -23,30 +23,30 @@
 ### 作用
 1.  表示数量中的“一”,相当于one  
 I don't know even `a single` person here. - 在这我连一个人都不认识
-2.  表示泛指的某人或某物或同类事物中的"一个"  
+2.  表示`泛指`的某人或某物或同类事物中的"一个"  
     a book is on the desk. - 一本书在桌子上 (泛指)
 3.  用于首次提到的一方不知道的人或物前,或再次提到.  
-`听或者还不知道的单数可数名词(人或物),第一次提到时,前面通常加a/an,再次提到时才加the.`  
-i bought `a computer` three years ago , but i have sold `the computer` already -    我买了三年前购买的电脑,但是已经出售了电脑了.
-4.  用在单位、价格、速度、比率中时,意思为"每一",相当于per或every  
+`对于说话者特指,但听者还不知道的人或物(单数可数名词),第一次提到时,前面通常加a/an,再次提到时才加the.`  
+I bought `a computer` three years ago , but I have sold `the computer` already -    我买了三年前购买的电脑,但是已经出售了电脑了.
+1.  用在单位、价格、速度、比率中时,意思为"每一",相当于per或every  
 He drives at `50 miles an hour`. - 他每小时行驶五十英里.(an hour 在这里表速度)  
 He washes his clothes `twice a week`. - 他每周洗两次衣服. (twice a week 表频率)
-5.  用在`某些物质名`词前，表示”一阵、一份、一种、一场“等  
+1.  用在`某些物质名`词前，表示”一阵、一份、一种、一场“等  
 He tapped out `an article` on the computer. - 他在电脑上敲了一篇文章
-6.  用于姓名前或”Mr. /Mrs. /Miss/Ms. + 姓氏“前，表示”一个...式的人“或”某一个，某位”  
+1.  用于姓名前或”Mr. /Mrs. /Miss/Ms. + 姓氏“前，表示”一个...式的人“或”某一个，某位”  
 He is `a little Einstein` in our school. - 他是我们学校的小爱因斯坦
-7.  用在序数词前，含有“又一，再一”之意
-8.  `单数可数名词`用`作表语、宾语补足语又或表示职业、阶级、宗教、社会地位`等.    
+1.  用在序数词前，含有“又一，再一”之意
+2.  `单数可数名词`用`作表语、宾语补足语又或表示职业、阶级、宗教、社会地位`等.    
 He is an Englishman. - 他是一个英国人。 (an Englishman作表语)
-0.  如果`不可数名词`或`动名词`表示“一种、一类”的概念时,也可以和a/an连用.  
+1.  如果`不可数名词`或`动名词`表示“一种、一类”的概念时,也可以和a/an连用.  
 She got `a big surprise` when she saw `a man` lying on the floor. - 档她看见一个男人躺在地板上时,她大吃一惊.
 10.  不定冠词常用在hundred,thousand,million,dozen,score,couple和`分数`之前. (基于1)  
 `a hundred` dollars - 一百美元
-11. 一般用在成套的东西前面  
+1.  一般用在成套的东西前面  
 `and是固定搭配`  
 a `cup `and` saucer` - 一套杯碟.  
 a `knife` and `fork` - 一套刀叉.
-12. 将抽象的名词具体化
+1.  将抽象的名词具体化
 a help - 帮手
 ### 注意
 -   `只能用在单数可数名词之前`
@@ -64,7 +64,7 @@ Do you know `the lady` in the hall? - 你知道堂前那一位女士吗?
 3.  用在对话中`上文提到过的人或事务`名词前  
 There is some `water` in the tube. `The water` is hot. - 水管里有些水. 那些水是热水.
 4.  用在表示宇宙中独一无二的事务的名词前. 
-5.  在形容词、现在分词或过去分词前加the,可以表示一类人或物,且表示复数.  
+5.  在`形容词、现在分词或过去分词`前加the,可以表示一类人或物,且表示复数.  
 `the poor, the rich, the sick....`  
 `The rich` often have access to better education. - 富人通常可以获得更好的教育。
 6.  用在表示被弹奏的`西洋乐器`的名词前.  
@@ -94,6 +94,10 @@ He died in the sixties - 他在60年代去世.
 the English - 英国人
 17. 当一个`名词带有限定性定语(形容词、介词短语、副词短语、定语从句等)`, 从而成为`特指`时, 前面加the.
 `The magazine here` is mine. - 这里杂志是我的.
+18. 在比较级形容词前the, 可表示两者中 "比较......些的那个......"或"越......,越......".  
+The more, the Better. - 越多越好.  
+常见结构:the + 形容词或副词比较级 + 主语 + 谓语, the + 形容词或副词比较级 + 主语 + 谓语, 表示主语越...,就越...
+The harder you work, the more you will learm. - 你工作的越越努力, 你将学到更多. 
 
 ## 零冠词 (不用冠词)
 
