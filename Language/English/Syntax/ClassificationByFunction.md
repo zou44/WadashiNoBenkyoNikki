@@ -1,7 +1,7 @@
 # 句子的分类(按功能)
 > CreateAt: The 18nd of September, 2024  
-> UpdateAt: The 28th of September, 2024
-> Number of Changes: 3 times
+> UpdateAt: The 7th of October, 2024  
+> Number of Changes: 4 times
 
 通常句子会按照功能和结构这两种方式进行分类.
 
@@ -33,9 +33,11 @@ The book is very interesting. - 这本书很有意思.
 Is he waiting in the church? - 他在教堂等我吗?  
 Yes, he is. - 是的, 他在.
 ##### 构造
--   (1) 若`谓语动词`是`"be"`或含有`助动词`或`情态动词`时, 将这些词提到句首, 句末加上问号.
+-   (1) 若`谓语动词`是`"be"`或含有`助动词`或`情态动词`时, 将这些词提到句首, 句末加上问号.  
     `Can` you help me. - 你可以帮我吗？  
 -   (2) 若谓语动词是`实义动词`时, 在句首加上`助动词do(注意do有人称和时态变化)` 且`动词用原形`并在句末加上问号.  
+    `若谓语动词本身就是do的某种形式, 相当于将do移动到句首并在原本位置变成do`  
+    He does morning exercise in his garden at seven ervery day -> Does he do morning exercise in his garden at seven day.  
     `Do` they `speak` English? - 他们讲英语吗?  
     `Does` Mr.smith `live` here? - 史密斯先生住在这儿吗?  
 -   (3) 否定形式的构造  
@@ -79,6 +81,9 @@ who、whose、what、where、when、why、how等
 `这章节非常大, 需单独拎出来讲.`  
 反意疑问句是附在陈述句之后, 对陈述句叙述的事实提出相反疑问的一种简短问话. 表示怀疑或没把握, 通常用yest或no回答. 反意疑问句通常由两部分组成,前一部分是对事物的陈述, 后一部分是简短的提问, 当然也会出现反过来的. `注意两部分的人称和时态是一致的`.
 
+##### 记录
+1.  反问疑问句中, 若陈述句用的是I'm那么疑问句部分, 用aren't I. `这是约定成俗的规定. 因为I'm没有否定形式, 只能用aren't I代替`
+2.  反意疑问句中, 一般是前肯定后否定, 且它们的时态、人称是一致的. 但若肯定句中谓语动词是一个具体的动作, 否定部分则要用do形式且保证人称和时态一致.
 
 #### 选择疑问句
 选择疑问句是问话者提供`两个或两个以上答案`供对方选择回答的问句.  `选择答案间用or连接`
@@ -87,6 +92,10 @@ who、whose、what、where、when、why、how等
     I stayed at home. - 我留在家了.
 -   (2)  
     Do you speak `English or French` ?
+
+#### 注意
+-   1. anybody和somebody  
+    前者常用于疑问句中, 后者常用于肯定句中.
 
 ### 祈使句
 祈使句是表达`命令、要求、请求`等`语气`的句子.   
@@ -114,8 +123,10 @@ Let me help you! - 我来帮你吧.
 表示喜、怒、哀、乐等强烈感情的句子叫感叹句. 通常句末用感叹号.
 
 -   What后接名词  
-    结构通常是:What (+a/an) + 形容词 + 可数名词单数/可数名词复数/不可数名词 + 其他  
+    结构通常是:What (+a/an) + 形容词 + 可数名词单数/可数名词复数/不可数名词 + 其他
     `What a fine` day !. - 多么好的一天
+    -   关于何时加`定冠词(a/an)`  
+    由名词决定, 若名词是可数名词则要加, 复数可数名词和不可数名词不加
 -   How后接形容词、副词或句子
     结构:How + (形容词/副词) + 其他  
     `How kind` you are! - 你人真好!  

@@ -1,6 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
+-    [[updated] [The 14th of November, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
 -    [[Added] [The 28th of September, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
 -   [[Added] [The 18th of September, 2024] - 句法分类按功能](./Language/English/Syntax/ClassificationByFunction.md)
 -   [[Added] [The 23rd of August, 2024] - 情态动词](./Language/English/Grammar/verb/Modal%20Verb.md)
