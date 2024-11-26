@@ -1,4 +1,4 @@
-# 句子的分类(按功能)
+# 句子的分类(按功能) & ClassificationByFunction
 > CreateAt: The 18nd of September, 2024  
 > UpdateAt: The 7th of October, 2024  
 > Number of Changes: 4 times

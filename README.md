@@ -1,11 +1,12 @@
 # これは私の勉強ノートです
 
 ## Last Update
--    [[updated] [The 14th of November, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
--    [[Added] [The 28th of September, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
--   [[Added] [The 18th of September, 2024] - 句法分类按功能](./Language/English/Syntax/ClassificationByFunction.md)
--   [[Added] [The 23rd of August, 2024] - 情态动词](./Language/English/Grammar/verb/Modal%20Verb.md)
--   [[Added] [The 28th of September, 2024] - 非谓语动词](./Language/English/Grammar/verb/Non-finite%20Verb.md)
+-   [[Add] [The 28th of November, 2024] #任意角和弧度制 (Arbitrary Angle and Radian Measure)](./Math/Trigonometry/Arbitrary%20Angle%20and%20Radian%20Measure.md)
+-    [[Update] [The 14th of November, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
+-    [[Add] [The 28th of September, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
+-   [[Add] [The 18th of September, 2024] - 句法分类按功能](./Language/English/Syntax/ClassificationByFunction.md)
+-   [[Add] [The 23rd of August, 2024] - 情态动词](./Language/English/Grammar/verb/Modal%20Verb.md)
+-   [[Add] [The 28th of September, 2024] - 非谓语动词](./Language/English/Grammar/verb/Non-finite%20Verb.md)
 -   [The 8th of August, 2024 - 动词(重温)](./Language/English/Grammar/Verb.md)
 -   [The 23rd of July, 2024 - 副词(重温)](./Language/English/Grammar/Adverb.md)
 -   [The 11th of July, 2024 - Web\Javascript\Module System in javascript](./Web/Javascript/Module%20System/README.md)
@@ -162,6 +163,20 @@
     - 《天空之城》
     - 《送别》
 
+#### English
+* Grammar (语法)
+  * [动词](./Language/English/Grammar/Verb.md))
+    * [情态动词](./Language/English/Grammar/verb/Modal%20Verb.md)
+    * [非谓语动词](./Language/English/Grammar/verb/Non-finite%20Verb.md)
+  * [介词](./Language/English/Grammar/Preposition.md))
+  * [数词](./Language/English/Grammar/Numeral.md)
+  * [连词](./Language/English/Grammar/Conjunction.md)
+  * [冠词](./Language/English/Grammar/Pronoun.md)
+  * [副词](./Language/English/Grammar/Adverb.md)
+  * [形容词](./Language/English/Grammar/Adjectives.md)
+* Syntax (句法)
+  * [句子的分类(按功能) & ClassificationByFunction](./Language/English/Syntax/ClassificationByFunction.md)
+  * [句子的分类(按结构) & ClassificationByStructure](./Language/English/Syntax/ClassificationByStructure.md)
 
 #### 日本語
 * 寒暄语
@@ -255,7 +270,8 @@
     - 直线 & 圆锥曲线 & 椭圆
     - 曲线
     - 
-* 三角
+* 三角学 (Trigonometry)
+  * [任意角和弧度制](./Math/Trigonometry/Arbitrary%20Angle%20and%20Radian%20Measure.md)
 * 概率与统计
 * 立体几何
 * 矩阵

@@ -1,4 +1,4 @@
-# 句子的分类(按结构)
+# 句子的分类(按结构) & ClassificationByStructure
 > CreateAt: The 28nd of September, 2024  
 > UpdateAt: The 14th of November, 2024  
 > Number of Changes: 5 times
