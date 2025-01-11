@@ -2,7 +2,8 @@
 
 ## Last Update
 
--   [[Add] [CreateAt: The 31st of December, 2024] #容器映射设备](./Docker/Others/Container%20mapping%20device.md)
+-   [[Add] [The 11th of January, 2025] UniApp uCharts 插件条形图点击改变颜色](./Uniapp/uCharts%20Plugin/bar%20chart%20click%20to%20change%20color.md)
+-   [[Add] [CreateAt: The 31st of December, 2024] 容器映射设备](./Docker/Others/Container%20mapping%20device.md)
 -   [[Add] [The 28th of November, 2024] #任意角和弧度制 (Arbitrary Angle and Radian Measure)](./Math/Trigonometry/Arbitrary%20Angle%20and%20Radian%20Measure.md)
 -    [[Update] [The 14th of November, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
 -    [[Add] [The 28th of September, 2024] - 句法分类按结构](./Language/English/Syntax/ClassificationByStructure.md)
