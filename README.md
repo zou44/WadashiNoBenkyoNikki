@@ -1,7 +1,7 @@
 # これは私の勉強ノートです
 
 ## Last Update
-
+-   [[Add] [CreateAt: The 7th of February, 2025] 数据结构 - Linear List (线性表)](./Software%20Design%20Engineer/Data%20Structure/Linear%20List/README.md)
 -   [[update] [The 20th of January, 2025] docker导入导出](./Docker/Others/image%20save&load.md)
 -   [[Add] [The 11th of January, 2025] UniApp uCharts 插件条形图点击改变颜色](./Uniapp/uCharts%20Plugin/bar%20chart%20click%20to%20change%20color.md)
 -   [[Add] [CreateAt: The 31st of December, 2024] 容器映射设备](./Docker/Others/Container%20mapping%20device.md)

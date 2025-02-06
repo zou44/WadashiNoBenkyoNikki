@@ -18,7 +18,7 @@
     -   线性结构
         -   数组
         -   稀疏矩阵
-        -   线性表
+        -   [线性表](./Data%20Structure/Linear%20List/README.md)
         -   广义表
         -   栈
         -   队列
