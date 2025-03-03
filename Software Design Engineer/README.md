@@ -32,5 +32,7 @@
             -   线索二叉树
             -   平衡二叉树
         -   图
+            -   [图的定义](./Data%20Structure/Graph/README.md)
+            -   [图的存储](./Data%20Structure/Graph/Storage.md)
     -   其他
         -   [平均查找长度 ASL (Averrage Search Length)](./Data%20Structure/Others/Averrage%20Search%20Length.md)

@@ -1,8 +1,8 @@
 ![脑图](./Numberal%20Mind%20Map.png)
 
 # 数词 (Numeral[/ˈnjuːmərəl/])
-> LastUpdateTime: The 17th of May, 2024
-> Number of Changes: five
+> LastUpdateTime: The 17th of May, 2024  
+> Number of Changes: Six
 
 ## 目录
 - [数词 (Numeral\[/ˈnjuːmərəl/\])](#数词-numeralˈnjuːmərəl)
@@ -40,11 +40,11 @@
 ### 基数词和序数词的定义
 表示数目多少或事物排列顺序的词叫数词，数词又`分基数词`和`序数词`。[`表示数目多少的数词叫基数词`](#基数词的构成)；[`表示顺序的数词叫序数词`](#序数词的构成)
 ### 基数词变序数词
--   基数词变序数词顺口溜:`基变序有规律，词尾要加th。一二三特殊记，词尾分别ttd。八去t，九去e;ve则以f代替。ty则变作ti,后面还有一个e。要是遇到几十几，只将个位变成序.`
+-   基数词变序数词顺口溜:`基变序有规律，词尾要加th。一二三特殊记，词尾分别tdd。八去t，九去e;ve则以f代替。ty则变作ti,后面还有一个e。要是遇到几十几，只将个位变成序.`
     -   "基变序有规律，词尾要加-th"
         -   解释：大多数基数都要在后面加上-th。
 	    -   如：four - fourth
-    -   "一二三特殊记，词尾分别ttd"
+    -   "一二三特殊记，词尾分别tdd"
         -   解释：指的是一二三这三个基数需要特别记忆，它们的结尾分别是ttd。
         -   如：one - first; two - second; three - third
     -   `"八去t，九去e;"`
