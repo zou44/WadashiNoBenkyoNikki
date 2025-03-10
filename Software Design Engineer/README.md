@@ -34,5 +34,8 @@
         -   图
             -   [图的定义](./Data%20Structure/Graph/README.md)
             -   [图的存储](./Data%20Structure/Graph/Storage.md)
+            -   [图的遍历](./Data%20Structure/Graph/Graph%20Traversal.md)
+            -   [图的生成树](./Data%20Structure/Graph/Spanning%20tree%20of%20a%20graph.md)
+            -   [图的拓扑排序](./Data%20Structure/Graph/Topological%20Sorting%20of%20Graphs.md)
     -   其他
         -   [平均查找长度 ASL (Averrage Search Length)](./Data%20Structure/Others/Averrage%20Search%20Length.md)
